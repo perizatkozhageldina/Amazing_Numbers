@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Amazing Numbers/task" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems/Account" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/Problems/Account and its owner" />
+            <option value="$PROJECT_DIR$/Problems/Adding values" />
+            <option value="$PROJECT_DIR$/Problems/Application as a class" />
+            <option value="$PROJECT_DIR$/Problems/Area of a circle" />
+            <option value="$PROJECT_DIR$/Problems/Army" />
+            <option value="$PROJECT_DIR$/Problems/Balance management" />
+            <option value="$PROJECT_DIR$/Problems/Book" />
+            <option value="$PROJECT_DIR$/Problems/Books" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Calculator with four methods" />
+            <option value="$PROJECT_DIR$/Problems/Call me awesome" />
+            <option value="$PROJECT_DIR$/Problems/Car" />
+            <option value="$PROJECT_DIR$/Problems/Change identities" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Circle" />
+            <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers" />
+            <option value="$PROJECT_DIR$/Problems/Complex numbers (1)" />
+            <option value="$PROJECT_DIR$/Problems/Compression algorithm" />
+            <option value="$PROJECT_DIR$/Problems/Concat all strings without digits" />
+            <option value="$PROJECT_DIR$/Problems/Convert a date" />
+            <option value="$PROJECT_DIR$/Problems/Counter" />
+            <option value="$PROJECT_DIR$/Problems/Create a full name" />
+            <option value="$PROJECT_DIR$/Problems/Create an euphonious word" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Cutting out the middle of a string" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Days of week" />
+            <option value="$PROJECT_DIR$/Problems/Decompose a math function" />
+            <option value="$PROJECT_DIR$/Problems/Detail manufacturing" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
+            <option value="$PROJECT_DIR$/Problems/Does an array contain N" />
+            <option value="$PROJECT_DIR$/Problems/Double characters" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Find the first occurrence of the word  the" />
+            <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Fixing the main method" />
+            <option value="$PROJECT_DIR$/Problems/Generating passwords" />
+            <option value="$PROJECT_DIR$/Problems/Geometric cube" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems/Hidden enumeration" />
+            <option value="$PROJECT_DIR$/Problems/Implement compareTo method" />
+            <option value="$PROJECT_DIR$/Problems/Implement comparing by additional fields" />
+            <option value="$PROJECT_DIR$/Problems/In a box" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of characters" />
+            <option value="$PROJECT_DIR$/Problems/Initializing an array of integers" />
+            <option value="$PROJECT_DIR$/Problems/Inner boxes" />
+            <option value="$PROJECT_DIR$/Problems/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Problems/Move the first N characters" />
+            <option value="$PROJECT_DIR$/Problems/Mutable geometric shapes" />
+            <option value="$PROJECT_DIR$/Problems/Number of occurrences" />
+            <option value="$PROJECT_DIR$/Problems/Palindrome" />
+            <option value="$PROJECT_DIR$/Problems/Parse url" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Piece of alphabet" />
+            <option value="$PROJECT_DIR$/Problems/Points on the 2D plane" />
+            <option value="$PROJECT_DIR$/Problems/Preparing full name" />
+            <option value="$PROJECT_DIR$/Problems/Print  Hello, Java_" />
+            <option value="$PROJECT_DIR$/Problems/Print  We are robots_" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Representing time as a class" />
+            <option value="$PROJECT_DIR$/Problems/Robot control" />
+            <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Problems/Size of parts" />
+            <option value="$PROJECT_DIR$/Problems/Sorting numbers" />
+            <option value="$PROJECT_DIR$/Problems/Sum array elements greater than a value" />
+            <option value="$PROJECT_DIR$/Problems/System of units" />
+            <option value="$PROJECT_DIR$/Problems/Test learners" />
+            <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
+            <option value="$PROJECT_DIR$/Problems/The English alphabet" />
+            <option value="$PROJECT_DIR$/Problems/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Problems/The longest word" />
+            <option value="$PROJECT_DIR$/Problems/The lucky ticket" />
+            <option value="$PROJECT_DIR$/Problems/The minimum value of an array" />
+            <option value="$PROJECT_DIR$/Problems/The percentage of G and C characters" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/Time constants" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
+            <option value="$PROJECT_DIR$/Problems/Two numbers never occur next to each other" />
+            <option value="$PROJECT_DIR$/Problems/User" />
+            <option value="$PROJECT_DIR$/Problems/Vowel or not" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
